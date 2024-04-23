@@ -5,3 +5,8 @@ It's possible to use voice changers to his audio output to make it sound more hu
 
 # Scraper
 Its use a scraper to get to the gpt model, but if you have a licence or you own a chatbot you can modify the program easily replacing some code and the function Silv_CORE 
+
+# Additional Notes
+I put the autorisation variable in a text cuz you can play anything throught the output at the same time the principal program is running
+//IMPORTAT//
+Start the js first or principal program not get any input, another thing, I use the name of my realtek virtual cable but windows sometime change it a bit so maybe you need to verify the name of your virtual cable of your realtek or use another virtual cable
